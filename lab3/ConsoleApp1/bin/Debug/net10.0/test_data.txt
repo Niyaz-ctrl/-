@@ -1,0 +1,7 @@
+6
+Integer:42
+Real:3,141590
+Integer:999
+Integer:-15
+Real:2,718280
+Integer:100
