@@ -1,0 +1,11 @@
+D:\laba8\laba8\bin\Debug\laba8.exe.config
+D:\laba8\laba8\bin\Debug\laba8.exe
+D:\laba8\laba8\bin\Debug\laba8.pdb
+D:\laba8\laba8\obj\Debug\laba8.csproj.AssemblyReference.cache
+D:\laba8\laba8\obj\Debug\laba8.Properties.Resources.resources
+D:\laba8\laba8\obj\Debug\laba8.csproj.GenerateResource.cache
+D:\laba8\laba8\obj\Debug\laba8.csproj.CoreCompileInputs.cache
+D:\laba8\laba8\obj\Debug\laba8.exe
+D:\laba8\laba8\obj\Debug\laba8.pdb
+D:\laba8\laba8\obj\Debug\laba8.Form1.resources
+D:\laba8\laba8\obj\Debug\laba8.InputDialog.resources
